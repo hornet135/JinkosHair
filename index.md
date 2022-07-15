@@ -5,7 +5,7 @@
 - [ ] crack a book - to open a book and study
 - [x] don’t bite off more than you can chew - don’t try to do more than you can handle 
 - [ ] don’t judge a book by its cover - avoid making judgments based on appearance
-- [x] a dime a dozen|something that is easily obtained; not unique 
+- [x] a dime a dozen - something that is easily obtained; not unique 
 - [ ] on pins and needles - anxious; excited; in suspense 
 - [ ] hang out - to spend time with certain people  
 - [ ] green with envy - jealous; wishing you had what someone else has 
